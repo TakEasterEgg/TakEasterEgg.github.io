@@ -19,12 +19,18 @@ const todosProyectos = [
     },
     {
         id: 3,
-        nombre: "Enlace al menu",
+        nombre: "Enlace al menu o carta de resto",
         descripcion: "Enlace a como hacer un menu en vanillaJS con mapeos y cosas locas",
         link: "https://takeasteregg.github.io/MenuVainilla/"
     },
     {
         id: 4,
+        nombre: "Frases filosoficas",
+        descripcion: "Generador de frases profundas para pensar... o quizas no tanto",
+        link: "https://takeasteregg.github.io/Filosofeador/"
+    },
+    {
+        id: 5,
         nombre: "enlace a google",
         descripcion: "Vas a google",
         link: "https://www.google.com"
