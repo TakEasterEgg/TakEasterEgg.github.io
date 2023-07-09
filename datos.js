@@ -31,6 +31,12 @@ const todosProyectos = [
     },
     {
         id: 5,
+        nombre: "Calculador de edad GAP",
+        descripcion: "En base a la regla esa que anda dando vueltas en internet, calcula si la diferencia de edad es permitida o no",
+        link: "https://takeasteregg.github.io/EdadesLegales/"
+    },
+    {
+        id: 6,
         nombre: "enlace a google",
         descripcion: "Vas a google",
         link: "https://www.google.com"
